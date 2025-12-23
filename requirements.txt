@@ -1,0 +1,7 @@
+pynmea2
+matplotlib
+cartopy
+numpy
+pandas
+geopy
+scipy
